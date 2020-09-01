@@ -1,7 +1,7 @@
 ---
 title: Welcome to my website
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://pixabay.com/photos/astrology-divination-chart-993127/"
 feature_text: |
   ## Hello world
 ---
